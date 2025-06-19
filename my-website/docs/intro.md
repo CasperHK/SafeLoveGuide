@@ -2,46 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 序言：現代男士，醒醒吧！
 
-Let's discover **Docusaurus in less than 5 minutes**.
+在香港這個燈紅酒綠、快到飛起的大都會，你可能每天都在打怪升級——返工擠港鐵、追KPI、捱更抵夜仲要養自己。生活已經夠挑戰，但仲有一個更隱形的戰場，等緊你一腳踩落去：現代約會同關係。喺呢個Instagram濾鏡滿天飛、Tinder左右撈的年代，唔少男士都試過好似「水魚」咁，被甜言蜜語同靚嘅外表牽着鼻走，最後傷心傷財，仲可能傷自尊。
 
-## Getting Started
+呢本《現代男士生存指南》唔係教你點樣變成冷血無情嘅「獨男」，亦都唔係要你同所有女士為敵。相反，佢係一本實戰手冊，幫你喺撈亂嘅兩性世界裏，練就一雙火眼金睛，識破「美容雞」、「撈女」同其他「奸狡」套路，守住你嘅心、你嘅荷包同你嘅尊嚴。點解要提防？因為喺呢個消費主義同社交媒體主導嘅年代，有人用濾鏡包裝人生，有人用甜言蜜語包裝意圖。你唔需要變成多疑怪，但你絕對需要變得精明。
 
-Get started by **creating a new site**.
+我哋會同你一齊解構現代約會嘅遊戲規則：點樣喺第一次咖啡約會就睇穿對方嘅真面目？點樣喺蘭桂坊嘅夜店唔做「提款機」？點樣喺感情同金錢之間set好界線，仲可以保持紳士風度？由識別「美容雞」嘅IG濾鏡魔法，到學會婚前協議保護你嘅銅鑼灣物業，呢本書會畀你實用嘅策略、香港真實嘅案例，甚至一啲心理學同法律小貼士，幫你喺愛情同人生嘅戰場上，永遠企得穩。
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+但提防唔係終點，係起點。呢本書仲會教你點樣提升自己——唔單止係外表同口才，仲有你嘅自信、目標同人生方向。因為一個真正強大嘅男人，唔係靠花錢去證明自己，而係靠智慧同真誠，去吸引同留住真正值得嘅人。
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+所以，兄弟，準備好未？拎起呢本指南，喺銅鑼灣嘅人潮、尖沙咀嘅夜景同你嘅約會App入面，開始你嘅生存冒險。唔好再做「水魚」，做你自己嘅英雄！
